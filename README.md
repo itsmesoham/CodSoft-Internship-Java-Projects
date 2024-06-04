@@ -12,5 +12,5 @@ Task 3 (ATM interface)
 
 An ATM interface in Java simulates basic banking transactions such as withdrawals, deposits, and balance. It provides unique user ID and a security pin is needed for authentication.
 
-Small guide for Task 3
-After compiling the code the output will generate a user ID. This ID has to be written in the user ID section and the pin is 1111.
+Small guide for Task 3,
+after compiling the code the output will generate a user ID. This ID has to be written in the user ID section and the pin is 1111.
